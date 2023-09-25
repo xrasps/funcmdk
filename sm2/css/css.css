@@ -1,0 +1,53 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.blue {
+    color: aqua;
+}
+
+.green {
+    color: aquamarine;
+}
+
+.red {
+    color: #ff9d9d;
+}
+
+.dark {
+    color: blueviolet;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+}
+form{
+    width: 300px;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #232323;
+    background: #232323;
+    color: #fff;
+    padding: 30px;
+}
+.btn{
+    background: red;
+}
+.input{
+    height: 60px;
+}

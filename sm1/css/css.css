@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+    }
+    .container{
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+.blue{
+    color: aqua;
+    }
+    .green{
+        color: aquamarine;
+    }
+    .red{
+        color: #ff9d9d;
+    }
+    .dark{
+        color: blueviolet;
+    }
+    h1{
+        font-weight: bold;
+    }
+    .bold{
+        font-weight: bold;
+    }
